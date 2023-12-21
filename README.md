@@ -1,3 +1,5 @@
+![Banner](images/banner.jpeg);
+
 <h1 align="center">Hi 👋, I'm Pradip Ram</h1>
 <h3 align="center">Prefinal-year student at Indian Institute of Technology (Indian School of Mines) Dhanbad interested in competitive programming, DSA, Web development</h3>
 
@@ -12,15 +14,71 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1aSm0iQRfuZsBt1MvJF3_rd9dSubIyJk4](https://drive.google.com/drive/u/0/folders/1aSm0iQRfuZsBt1MvJF3_rd9dSubIyJk4)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pradip ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip ram" height="30" width="40" /></a>
-<a href="https://fb.com/pradip ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradip ram" height="30" width="40" /></a>
-<a href="https://instagram.com/pradipram95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradipram95" height="30" width="40" /></a>
-</p>
+
+<div style="display: flex;align-items:center;">
+    <a href="https://github.com/Pradipram" style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/github.svg" width="60">
+        <span style="text-align:center">GitHub</span>
+    </a>
+    <a href="https://www.linkedin.com/in/pradip-ram-0bbb73222/" style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/linkedin.svg" width="60">
+        <span style="text-align:center">Linkedin</span>
+    </a>
+    <a href="https://leetcode.com/pradip_coder/" style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/leetcode.png" width="60">
+        <span style="text-align:center">Leetcode</span>
+    </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div style="display: flex;align-items:center;flex-wrap: wrap;">
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/c.svg" width="60">
+        <span style="text-align:center">C</span>
+    </div>    
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/cpp.svg" width="60">
+        <span style="text-align:center">C++</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/html.svg" width="60">
+        <span style="text-align:center">HTML</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/css.svg" width="60">
+        <span style="text-align:center">CSS</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images//javascript.svg" width="60">
+        <span style="text-align:center">Javascript</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images//nodejs.svg" width="60">
+        <span style="text-align:center">NodeJS</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images//mongodb.svg" width="60">
+        <span style="text-align:center">MongoDB</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/expressjs.svg" width="60">
+        <span style="text-align:center">ExpressJS</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/reactjs.svg" width="60">
+        <span style="text-align:center">ReactJS</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/operatingsystem.png" width="60">
+        <span style="text-align:center">OS</span>
+    </div>
+    <div style="display:flex; flex-direction: column;margin:10px">
+        <img src="./images/sql.png" width="60">
+        <span style="text-align:center">Sql</span>
+    </div>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipram&show_icons=true&locale=en&layout=compact" alt="pradipram" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradipram&show_icons=true&locale=en" alt="pradipram" /></p>
+
