@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradipram" alt="pradipram" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio.cyclic.app/](https://my-portfolio.cyclic.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio.cyclic.app/](https://pradip-portfolio.up.railway.app/)
 
 - 📫 How to reach me **pradipramnawa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1aSm0iQRfuZsBt1MvJF3_rd9dSubIyJk4](https://drive.google.com/drive/u/0/folders/1aSm0iQRfuZsBt1MvJF3_rd9dSubIyJk4)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1u3jXqgsSLEOdkGcTozgSqsJMB3jf9pqS/view?usp=sharing](https://drive.google.com/file/d/1u3jXqgsSLEOdkGcTozgSqsJMB3jf9pqS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
