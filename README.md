@@ -1,7 +1,7 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQEELbUBt9SJyg/profile-displaybackgroundimage-shrink_350_1400/0/1681468761089?e=1708560000&v=beta&t=ZiOWHwA3d1j3pfW6Drz7CHJBDqZNGmnnEsU4bvqsJqo);
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEELbUBt9SJyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681468761089?e=1730332800&v=beta&t=UTbRNxPIrkKwo9vzfWUj0DX--g9oIh9gPHdcPaXO7rI);
 
 <h1 align="center">Hi 👋, I'm Pradip Ram</h1>
-<h3 align="center">Prefinal-year student at Indian Institute of Technology (Indian School of Mines) Dhanbad interested in competitive programming, DSA, Web development</h3>
+<h3 align="center">I am a Final-year Computer Science student at IIT (ISM) Dhanbad, with a strong interest in competitive programming, DSA, and web development. Recently completed an internship at Veolia Water & Technology Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipram&label=Profile%20views&color=0e75b6&style=flat" alt="pradipram" /> </p>
 
